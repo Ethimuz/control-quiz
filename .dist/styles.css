@@ -1,0 +1,51 @@
+.cientificas {
+  text-align: center;
+}
+.table_1 {
+  width: 50%;
+  background: white;
+  align-items: flex-end;
+  display: flex;
+}
+.table_2 {
+  width: 50%;
+  background: white;
+  align-items: flex-end;
+  display: flex;
+}
+.td {
+  width: 80px;
+  height: 80px;
+  margin-right: -5px;
+  margin-top: -5px;
+  text-align: center;
+  border: 4px solid black;
+  font-family: 'Roboto', sans-serif;
+}
+.cNat {
+  background: #1a7f82;
+}
+.ii {
+  background: #5181b9;
+}
+.pal {
+  background: #4aabc2;
+}
+.mat {
+  background: #8063a1;
+}
+.astr {
+  background: #c14f4d;
+}
+.fis {
+  background: #f99545;
+}
+.quim {
+  background: #ebe320;
+}
+.bioMed {
+  background: #9aba57;
+}
+.prim {
+  background: #65ccff;
+}
